@@ -1,3 +1,5 @@
+[![Foysal's GitHub Banner](https://i.ibb.co/rdG7wpJ/github-cover.jpg)](https://iamfoysal.netlify.app/)
+
 # 💫 About Me:
 👋 Hey there! I'm Foysal, a Fullstack developer specializing in Python, Django, and React. I'm passionate about building robust web applications and APIs, with expertise in Django Rest Framework.<br><br>🚀 Beyond Python and Django, I'm skilled in C, C++, JavaScript, SQL, and have experience with MySQL and PostgreSQL databases. I also dabble in competitive programming and have explored technologies like React, Next.js for frontend development.<br><br>💼 Currently seeking entry-level opportunities to contribute my skills and enthusiasm to exciting projects. Let's connect and build something great together!<br><br>📫 Feel free to reach out via ✉ mfoysal314@gmail.com ✉ . Looking forward to hearing from you!
 
